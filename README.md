@@ -27,7 +27,7 @@ In the competitive travel industry, retaining customers is essential. TravelTide
 
 ## Usage
 
-To reproduce the analysis, run the Jupyter notebooks in the `Notebooks` directory. Start Jupyter Notebook:
+To reproduce the analysis, run the Jupyter notebooks in the `Notebooks` directory. The notebooks can be found [here](https://github.com/AlJilane/Travel_Tide/tree/main/Notebooks). Start Jupyter Notebook:
    ```bash
    jupyter notebook
    ```
