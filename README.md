@@ -15,6 +15,7 @@
 - [Results](#results)
 - [Visualizations](#visualizations)
 - [Conclusion](#conclusion)
+- [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
 ----------------------
@@ -95,6 +96,12 @@ Visualizations were created using matplotlib and seaborn. Interactive visualizat
 The findings and recommendations from this project aim to create a more personalized and engaging experience for TravelTide users, boosting satisfaction and loyalty. By implementing targeted perks and refining the rewards program based on user feedback, TravelTide can enhance customer retention and drive long-term success. Continuous monitoring and A/B testing will be crucial to ensure the effectiveness of these initiatives and make necessary updates regularly.
 
 Understanding customer preferences and behaviors to tailor offerings is essential. Through this approach, TravelTide can strengthen its market position and maintain a loyal customer base. For a detailed analysis, refer to the [Narrative Report](https://github.com/AlJilane/Travel_Tide/tree/main/Narrative%20report).
+
+--------------------------
+
+## Acknowledgements
+
+I would like to thank [Thimo Wellner](https://www.linkedin.com/in/thimo-wellner-564993160/) and [Juan Bavaresco](https://www.linkedin.com/in/juanbavaresco/) for their guidance and support throughout this project.
 
 --------------------------
 
